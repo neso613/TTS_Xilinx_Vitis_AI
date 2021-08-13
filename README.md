@@ -1,1 +1,1 @@
-# Text-To_speech Models Optimised using Vitis-AI
+# Text-To-Speech Models optimization using Vitis-AI
